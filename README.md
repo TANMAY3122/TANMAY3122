@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="/placeholder.svg?height=200&width=200" alt="Profile Image" style="border-radius: 50%; border: 2px solid #4CAF50;">
   <h1>Tanmay Kashyap</h1>
   <p><em>Innovative Technologist | Problem Solver | Hackathon Winner</em></p>
 </div>
